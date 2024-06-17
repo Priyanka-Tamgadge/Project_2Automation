@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-17T19:36:10 IST" name="Default suite" finished-at="2024-06-17T19:37:57 IST" duration-ms="107509">
+    <groups>
+    </groups>
+    <test started-at="2024-06-17T19:36:10 IST" name="Default test" finished-at="2024-06-17T19:37:57 IST" duration-ms="107509">
+      <class name="TestScripts.SortBy_Test">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:36:10 IST" name="launchBrowser" finished-at="2024-06-17T19:36:17 IST" duration-ms="6886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="Verify_LogIn_Page_Title()[pri:1, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:36:17 IST" name="Verify_LogIn_Page_Title" finished-at="2024-06-17T19:36:21 IST" duration-ms="3931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_LogIn_Page_Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:36:21 IST" name="close" finished-at="2024-06-17T19:36:21 IST" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:36:21 IST" name="launchBrowser" finished-at="2024-06-17T19:36:26 IST" duration-ms="4764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="Verify_Available_SortBy_Options()[pri:2, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:36:26 IST" name="Verify_Available_SortBy_Options" finished-at="2024-06-17T19:36:36 IST" duration-ms="10391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Available_SortBy_Options -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:36:36 IST" name="close" finished-at="2024-06-17T19:36:36 IST" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:36:36 IST" name="launchBrowser" finished-at="2024-06-17T19:36:41 IST" duration-ms="4832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="Verify_SortBy_Name_Z_to_A()[pri:3, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:36:41 IST" name="Verify_SortBy_Name_Z_to_A" finished-at="2024-06-17T19:36:56 IST" duration-ms="14893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_SortBy_Name_Z_to_A -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:36:56 IST" name="close" finished-at="2024-06-17T19:36:57 IST" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:36:57 IST" name="launchBrowser" finished-at="2024-06-17T19:37:02 IST" duration-ms="4955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="Verify_SortBy_Name_A_to_Z()[pri:4, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:37:02 IST" name="Verify_SortBy_Name_A_to_Z" finished-at="2024-06-17T19:37:16 IST" duration-ms="14708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_SortBy_Name_A_to_Z -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:37:16 IST" name="close" finished-at="2024-06-17T19:37:17 IST" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:37:17 IST" name="launchBrowser" finished-at="2024-06-17T19:37:22 IST" duration-ms="4992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="Verify_SortBy_Price_low_to_high()[pri:5, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:37:22 IST" name="Verify_SortBy_Price_low_to_high" finished-at="2024-06-17T19:37:37 IST" duration-ms="14907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_SortBy_Price_low_to_high -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:37:37 IST" name="close" finished-at="2024-06-17T19:37:37 IST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:37:37 IST" name="launchBrowser" finished-at="2024-06-17T19:37:42 IST" duration-ms="4875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="Verify_SortBy_Price_high_to_low()[pri:6, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:37:42 IST" name="Verify_SortBy_Price_high_to_low" finished-at="2024-06-17T19:37:57 IST" duration-ms="14603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_SortBy_Price_high_to_low -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestScripts.SortBy_Test@60bd273d]" started-at="2024-06-17T19:37:57 IST" name="close" finished-at="2024-06-17T19:37:57 IST" duration-ms="601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestScripts.SortBy_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
